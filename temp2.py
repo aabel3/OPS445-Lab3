@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# temp2.py
+# Author: Avraham Abel
 
 def return_number_value():
 	num1 = 10
