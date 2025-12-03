@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# lab3a.py
+# Author: Avraham Abel
 
 def operate(number1, number2, operator):
 	if operator == "add":
