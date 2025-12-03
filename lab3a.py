@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# lab3a.py
+# Author: Avraham Abel
 
 # return_text_value() function
 
