@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# OPS435 - Lab 3
+# temp4.py
+# Author: Avraham Abel
 
 import lab3b
 print(lab3b.sum_numbers(10, 5))
